@@ -22,4 +22,4 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-minimal
