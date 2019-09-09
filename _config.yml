@@ -17,7 +17,7 @@ defaults:
       path: ""
     values:
       layout: "default"
-      plugins:
+plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
