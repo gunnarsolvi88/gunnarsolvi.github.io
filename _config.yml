@@ -22,4 +22,4 @@ defaults:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-time-machine
