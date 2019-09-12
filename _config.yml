@@ -23,5 +23,5 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-baseurl: "/gunnarsolvi88.github.io"
+baseurl: "/gunnarsolvi.github.io"
 url: "https://gunnarsolvi88.github.io/gunnarsolvi.github.io/"
